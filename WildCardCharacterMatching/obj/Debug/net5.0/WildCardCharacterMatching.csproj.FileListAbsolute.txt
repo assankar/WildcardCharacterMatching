@@ -1,0 +1,16 @@
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.csproj.AssemblyReference.cache
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.AssemblyInfoInputs.cache
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.AssemblyInfo.cs
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.csproj.CoreCompileInputs.cache
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\bin\Debug\net5.0\WildCardCharacterMatching.exe
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\bin\Debug\net5.0\WildCardCharacterMatching.deps.json
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\bin\Debug\net5.0\WildCardCharacterMatching.runtimeconfig.json
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\bin\Debug\net5.0\WildCardCharacterMatching.runtimeconfig.dev.json
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\bin\Debug\net5.0\WildCardCharacterMatching.dll
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\bin\Debug\net5.0\ref\WildCardCharacterMatching.dll
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\bin\Debug\net5.0\WildCardCharacterMatching.pdb
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.dll
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\ref\WildCardCharacterMatching.dll
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.pdb
+C:\Users\acsankar\source\repos\WildCardCharacterMatching\WildCardCharacterMatching\obj\Debug\net5.0\WildCardCharacterMatching.genruntimeconfig.cache
